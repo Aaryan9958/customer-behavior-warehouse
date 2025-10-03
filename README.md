@@ -1,4 +1,4 @@
-# Customer Analytics Data Warehouse (CIS 467 Final Project)
+# Customer Analytics Data Warehouse Project
 
 This repository contains a customer‑centric data warehouse, analytical SQL, and Tableau assets built on the **Sakila** sample database to analyze rental behavior, spending patterns, and store‑level activity.
 

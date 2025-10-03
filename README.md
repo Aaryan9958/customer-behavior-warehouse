@@ -79,6 +79,24 @@ The workbook (`tableau/…twb(x)`) contains five visuals + a dashboard:
 > Tip: Export PNGs of each sheet and place them in `/images` for GitHub preview.
 
 ---
+### Customer Spending Distribution
+![Spending Distribution](images/spending_distribution.jpg)
+
+### Top 10 Customers
+![Top Customers](images/top_customers.jpg)
+
+### Retention Rate by Country
+![Retention Rate](images/retention_rate.jpg)
+
+### Average Rental Duration
+![Rental Duration](images/rental_duration.jpg)
+
+### Most Popular Categories
+![Popular Categories](images/popular_categories.jpg)
+
+### Combined Dashboard
+![Dashboard](images/dashboard.jpg)
+
 
 ## 🗂️ Data Files
 

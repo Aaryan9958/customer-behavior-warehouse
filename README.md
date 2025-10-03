@@ -123,16 +123,6 @@ Alternatively, zip and upload via GitHub’s web UI.
 
 ---
 
-## 👥 Team
-
-- Jonathan Chen  
-- Martin Sha  
-- Matthew Irons  
-- Aryan Bansal  
-- Omkarsinh Rana
-
----
-
 ## 📄 License
 
 MIT — see `LICENSE`.

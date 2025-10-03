@@ -82,7 +82,7 @@ The workbook (`tableau/…twb(x)`) contains five visuals + a dashboard:
 ## 📊 Customer Analytics Dashboard
 
 Here’s the combined Tableau dashboard with all key insights:
-![Dashboard](dashboard.jpg)
+![Dashboard](dashboard .jpg)
 
 
 

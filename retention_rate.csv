@@ -1,0 +1,109 @@
+country,total_customers,active_customers,retention_rate
+Afghanistan,1,1,100.00
+Algeria,3,3,100.00
+"American Samoa",1,1,100.00
+Angola,2,2,100.00
+Anguilla,1,1,100.00
+Argentina,13,13,100.00
+Armenia,1,1,100.00
+Austria,3,3,100.00
+Azerbaijan,2,2,100.00
+Bahrain,1,1,100.00
+Bangladesh,3,3,100.00
+Belarus,2,2,100.00
+Bolivia,2,2,100.00
+Brazil,28,28,100.00
+Brunei,1,1,100.00
+Bulgaria,2,2,100.00
+Cambodia,2,2,100.00
+Cameroon,2,2,100.00
+Canada,5,5,100.00
+Chad,1,1,100.00
+Chile,3,3,100.00
+Colombia,6,6,100.00
+"Congo, The Democratic Republic of the",2,2,100.00
+"Czech Republic",1,1,100.00
+"Dominican Republic",3,3,100.00
+Ecuador,3,3,100.00
+Egypt,6,6,100.00
+Estonia,1,1,100.00
+Ethiopia,1,1,100.00
+"Faroe Islands",1,1,100.00
+Finland,1,1,100.00
+France,4,4,100.00
+"French Guiana",1,1,100.00
+"French Polynesia",2,2,100.00
+Gambia,1,1,100.00
+Germany,7,7,100.00
+Greece,2,2,100.00
+Greenland,1,1,100.00
+"Holy See (Vatican City State)",1,1,100.00
+"Hong Kong",1,1,100.00
+Indonesia,14,14,100.00
+Iraq,1,1,100.00
+Italy,7,7,100.00
+Japan,31,31,100.00
+Kazakstan,2,2,100.00
+Kenya,2,2,100.00
+Kuwait,1,1,100.00
+Latvia,2,2,100.00
+Liechtenstein,1,1,100.00
+Lithuania,1,1,100.00
+Madagascar,1,1,100.00
+Malawi,1,1,100.00
+Malaysia,3,3,100.00
+Moldova,1,1,100.00
+Morocco,3,3,100.00
+Mozambique,3,3,100.00
+Myanmar,2,2,100.00
+Nauru,1,1,100.00
+Nepal,1,1,100.00
+Netherlands,5,5,100.00
+"New Zealand",1,1,100.00
+Nigeria,13,13,100.00
+"North Korea",1,1,100.00
+Oman,2,2,100.00
+Pakistan,5,5,100.00
+Paraguay,3,3,100.00
+Peru,4,4,100.00
+Philippines,20,20,100.00
+"Puerto Rico",2,2,100.00
+Réunion,1,1,100.00
+Romania,2,2,100.00
+"Saint Vincent and the Grenadines",1,1,100.00
+"Saudi Arabia",5,5,100.00
+Senegal,1,1,100.00
+Slovakia,1,1,100.00
+"South Africa",11,11,100.00
+"South Korea",5,5,100.00
+Spain,5,5,100.00
+"Sri Lanka",1,1,100.00
+Sudan,2,2,100.00
+Sweden,1,1,100.00
+Switzerland,3,3,100.00
+Taiwan,10,10,100.00
+Tanzania,3,3,100.00
+Thailand,3,3,100.00
+Tonga,1,1,100.00
+Tunisia,1,1,100.00
+Turkmenistan,1,1,100.00
+Tuvalu,1,1,100.00
+Ukraine,6,6,100.00
+"United Arab Emirates",3,3,100.00
+"United States",36,36,100.00
+Venezuela,7,7,100.00
+Vietnam,6,6,100.00
+Yemen,4,4,100.00
+Yugoslavia,2,2,100.00
+Zambia,1,1,100.00
+Mexico,30,29,96.67
+"Russian Federation",28,27,96.43
+India,60,57,95.00
+China,53,50,94.34
+Turkey,15,14,93.33
+"United Kingdom",9,8,88.89
+Iran,8,7,87.50
+Poland,8,7,87.50
+Israel,4,3,75.00
+Hungary,1,0,0.00
+"Virgin Islands, U.S.",1,0,0.00

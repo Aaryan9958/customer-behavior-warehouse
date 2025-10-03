@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python / env (not used but safe)
+__pycache__/
+*.pyc
+
+# Tableau temp/cache
+*/~$*
+*.tde
+*.hyper
+*.twb.backup
+*.twbx.backup
+
+# Editors
+.vscode/
+.idea/
+
+# Misc
+*.zip

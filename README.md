@@ -2,8 +2,8 @@
 
 This repository contains a customer‑centric data warehouse, analytical SQL, and Tableau assets built on the **Sakila** sample database to analyze rental behavior, spending patterns, and store‑level activity.
 
-> Course: CIS 467 — Data Management, Warehousing, and Visualization (Spring A, 2025)  
-> Team: Group 3C — Jonathan Chen, Martin Sha, Matthew Irons, Aryan Bansal, Omkarsinh Rana
+>  Data Management- Warehousing, and Visualization 
+
 
 ---
 

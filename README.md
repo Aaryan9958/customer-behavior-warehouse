@@ -105,27 +105,6 @@ CSV extracts are under `/data`. You can regenerate them by running the SQL in `s
    ```sql
    SOURCE sql/02_queries.sql;
    ```
-4. **Export** `customer_warehouse_LATEST_VERSION` to CSV and open the Tableau workbook. If needed, **replace data source** to  CSV copy.
-
----
-
-## 🚀 Publish to GitHub
-
-1. Create an empty repo on GitHub (no README).  
-2. In a terminal:
-   ```bash
-   cd path/to/cis467-customer-analytics-dw
-   git init
-   git add .
-   git commit -m "Initial commit: DW, queries, Tableau, docs"
-   git branch -M main
-   git remote add origin https://github.com/<your-user>/<your-repo>.git
-   git push -u origin main
-   ```
-
-Alternatively, zip and upload via GitHub’s web UI.
-
----
 
 ## 📄 License
 

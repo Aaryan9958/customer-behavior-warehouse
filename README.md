@@ -76,8 +76,6 @@ The workbook (`tableau/…twb(x)`) contains five visuals + a dashboard:
 - **Most Popular Categories** (bar)
 - **Combined Dashboard** for exec review
 
-> Tip: Export PNGs of each sheet and place them in `/images` for GitHub preview.
-
 ---
 ## 📊 Customer Analytics Dashboard
 
@@ -107,7 +105,7 @@ CSV extracts are under `/data`. You can regenerate them by running the SQL in `s
    ```sql
    SOURCE sql/02_queries.sql;
    ```
-4. **Export** `customer_warehouse_LATEST_VERSION` to CSV and open the Tableau workbook. If needed, **replace data source** to your CSV copy.
+4. **Export** `customer_warehouse_LATEST_VERSION` to CSV and open the Tableau workbook. If needed, **replace data source** to  CSV copy.
 
 ---
 

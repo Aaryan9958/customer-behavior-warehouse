@@ -11,12 +11,12 @@ This repository contains a customer‑centric data warehouse, analytical SQL, an
 
 ```
 .
-├── data/                      # CSV extracts used for analysis & viz
-├── docs/                      # Final write‑up and any supporting docs
-├── images/                    # (Optional) export screenshots here
+├── data/                     
+├── docs/                      
+├── images/                    
 ├── sql/
-│   ├── 01_create_dw.sql       # CREATE VIEW/TABLE for the DW
-│   └── 02_queries.sql         # 8 analytical queries on the DW
+│   ├── 01_create_dw.sql       
+│   └── 02_queries.sql         
 ├── tableau/
 │   ├── CIS_467_final_group_project.twb
 │   └── CIS_467_final_group_project.twbx
